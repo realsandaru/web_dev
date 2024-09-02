@@ -1,10 +1,12 @@
 Greetings !!
 
-Here i have completed** the Task 2.3P of your assignment.The steps 1, 2 and 3.2 have been completed and the relavent html files and the screenshots are provided here.
-step 3.1 has to be done from your end since it is refering to a " Deakin webserver" which i dont have access to. Check before uploading !!. 
+Here i have completed** the Task 2.3P and 4.1P of your assignment.The steps 1, 2 and 3.2 of 2.3P have been completed and the relavent html files and the screenshots are provided here.
+step 3.1 of 2.3P has to be done from your end since it is refering to a "Deakin webserver" to which i dont have access to. 
+4.1P is completed but there are few places where the problem statement seems to be contradicting it self.In such cases i gave priority to the "Requirements" over other content.
 Ill be adding the other tasks to this repo in the future.
 
-p.s - ignore the .gitignore file ( im excluding the node server there).
+p.s - ignore the .gitignore file ( im excluding the node server and the ice cream images there).
 let me know if there are any issues.
 
+Check before uploading !!.
 Noice.
