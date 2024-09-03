@@ -5,6 +5,8 @@ step 3.1 of 2.3P has to be done from your end since it is refering to a "Deakin 
 4.1P is completed but there are few places where the problem statement seems to be contradicting it self.In such cases i gave priority to the "Requirements" over other content.
 Ill be adding the other tasks to this repo in the future.
 
+5.1P added but i just saw that the footer is missing.I'll add that and commit the changes along with the Js tasks.
+
 p.s - ignore the .gitignore file ( im excluding the node server and the ice cream images there).
 let me know if there are any issues.
 
