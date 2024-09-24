@@ -1,0 +1,49 @@
+#app { 
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+    margin-top: 20px; 
+    color: #333; 
+    background-color: #f9f9f9; 
+    padding: 20px; 
+    margin: 0px;
+    border-radius: 8px; 
+} 
+
+img {
+    max-width: 30%;
+}
+    
+h1 { 
+    color: #007bff; 
+} 
+
+h2 { 
+    color: #333; 
+} 
+
+p { 
+    text-align: justify;
+    font-size: 1.1em; 
+    margin-bottom: 20px; 
+} 
+
+.des {
+    text-align: center;
+    font-size: 1.1em; 
+    margin-bottom: 20px; 
+}
+
+/* Define and add styles for your list here */
+
+ul {
+    list-style: none;
+    max-width: 100%;
+}
+
+ul li {
+    margin: 15px;
+    padding: 15px;
+    border-width: 5px;
+    border-radius: 5px;
+    background: #eff0f7;
+}
